@@ -1,0 +1,28 @@
+title: "Insane blabbering of an old man"
+author: "InfoSecDJ"
+description: "I wanted a place to write stuff down. Some or all of it may be true or false, who knows."
+
+theme: "minima"
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
+      
+      
