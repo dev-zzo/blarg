@@ -13,6 +13,8 @@ One very specific use of this tech is in automobile immobilizers. See, at some p
 
 The idea behind the system was, since we already have a computer in the car anyway (the [Engine Control Unit](https://en.wikipedia.org/wiki/Engine_control_unit), or ECU for short), why not task it with identity verification as well, and allow engine start only when the user presents a valid token. Some designs have immobilizers integrated into the ECU, others have a separate immbilizer box connected to the ECU instead. In the designs I'm aware of, the token takes the form of a small transponder built into the key, the same key used for starting the car, so it can be interrogated whenever you try to start the car. So not only you have to have the right key, the transponder chip has to satisfy the immobilizer box too; this makes hotwiring -- in theory -- ineffective.
 
+![A bunch of transponder devices so you know what they look like. Taken from a random place on the internet.](/blarg/assets/20230220/transponders.jpg)
+
 Whether the same transponder device is responsible for unlocking the doors and disabling the alarm is implementation dependent; for all I care, these are two totally separate devices. If anything, many transponder designs come in completely sealed packages with no electrical connections sticking out or anything like that.
 
 # Theory of operation of a fixed-code system, or something
