@@ -27,7 +27,7 @@ On the very high level, the whole system is comprised of three little boxes:
 
 The immobilizer uses the reader to talk to the transponder when it feels like it wants to make sure the right key is in the lock, and it does so using electromagnetism. Remember, the transponder is completely isolated? So to do anything at all, on command, the reader transmits some amount of power to the transponder by creating an electromagnetic field around it. The transponder charges up, spits out its identification code by using the magic of electromagnetism, and goes back to sleep. The reader then interprets the aether vibrations and spits out the ID data in the form that normal electronics can understand -- bits, bytes, etc.
 
-![Overall scheme of things, depicting how the reader interacts with the transponder. Taken from TI SCBU020.](/blarg/assets/2023-02-20/overall-scheme-of-things.png)
+![Overall scheme of things, depicting how the reader interacts with the transponder. Taken from TI SCBU020.](/blarg/assets/20230220/overall-scheme-of-things.png)
 
 And that's kinda it. That's how fixed-code immobilizer systems work; nothing magical except for electromagnetism. As it turned out, the teenagers were smart enough to figure out you can sniff this magical fixed code, replay it as needed, and oh wow we got us a joyride again.
 
