@@ -45,7 +45,7 @@ And this kinda is where we are today, I think. Algorithms get broken and improve
 
 Well, I said I wanted to understand how these things **really** work, didn't I. You see, someone has to provision the keys. Suppose there is the "all keys lost" situation (mhm, right) -- how do you make new keys? How do you let the immo box intimate with the new and shiny transponder, and vice versa? What exactly happens during that process? All this is part of another project, which is not that important right now.
 
-So many quesions, zero answers on the internet.
+So many questions, zero answers on the internet.
 
 Everybody seems to be in the business of selling you magical devices that make Everything Alright for a meager sum of several hundred (or a thousand) monies, whichever currency you use. And of course, nobody knows how these doodads work -- and if they do, they keep quiet about it. Let's see if I can find anything out (yes I could, but bear with me, I have to put a hook in, don't I).
 
