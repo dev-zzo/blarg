@@ -57,14 +57,14 @@ SCBU037 also shows a nice change concerning the programming function, namely inc
 
 And that's basically all she wrote in them datasheets. I won't bore you with details on the modulation and especially testing methodologies. The actual RF level stuff should be done by this "Transponder Base Station IC" thingamajig, the TMS3705, or so I hope.
 
-Now the "datasheet" on RI-TRP-B9WK, if you can call it that, highlights an important detail on memory page contents:
+Now the "datasheet" on RI-TRP-B9WK, if you can call it that, highlights an important detail on memory page contents of DST40 transponders:
 
 * Page 1, 8 bits, is the "password", failing to mention what this password is for -- but hey, we've heard about this before somewhere?
 * Page 2, 8 bits, is "Identification ID", whatever that means;
 * Page 3, 32 bits, is the serial number and manufacturer code; and
 * Page 4, 40 bits, is the DST40 key.
 
-Oh and they also tell me the challenge is 40 bits and the response is the serial number + response + CRC again. Fin. It's... a lot, but not much at the same time. Oh, and no mention how should I cook these fresh challenge bits I just generated?
+Oh, and they also tell me the challenge is 40 bits and the response is the serial number + response + CRC again. Fin. It's... a lot, but not much at the same time. Oh, and no mention how should I cook these fresh challenge bits I just generated?
 
 # All your base stations are... you know the rest
 
