@@ -36,4 +36,8 @@ And just like that, after several hours you get a crisp done.
 
 If I were to improve something in this setup, it's probably replacing the hot air with something else. I can't imagine it being very energy effective, and it makes a lot of noise. Let me know if you got any good ideas.
 
+**UPDATE**: Experiments showed that using a bigger nozzle makes for a stark difference, with less air pushed through and considerably higher temperature in the tube, judging by how aggressive the boiling is:
+
+![Experimental decapping setup](/blarg/assets/20230225/better-setup.jpg)
+
 Happy decapping, my dudes and dudettes!
