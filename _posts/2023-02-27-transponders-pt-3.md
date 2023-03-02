@@ -28,7 +28,7 @@ Reader pin | Signal | Arduino pin
          5 |   TXCT | 2
          7 |    GND | GND
 
-![Extremely experimental setup](/blarg/20230227/setup.jpg)
+![Extremely experimental setup](/blarg/assets/20230227/setup.jpg)
 
 Writing the setup code right away:
 
@@ -113,7 +113,7 @@ void doPassiveRead() {
 
 With any luck, this should do it. I will be using this transponder in a funky glass capsule as the test subject, because it looks cool. The eagle-eyed readers might have noticed something under the blue tape stuck on the reader -- it was this:
 
-![Glass transponder](/blarg/20230227/transponder.jpg)
+![Glass transponder](/blarg/assets/20230227/transponder.jpg)
 
 And sure enough, running the passive read function yielded the following response:
 
