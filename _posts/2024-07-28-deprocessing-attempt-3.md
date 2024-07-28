@@ -47,7 +47,7 @@ After about 15 min in HCl:
 
 ![Image of metal getting etched away (500x mag)](/blarg/assets/20240728/deproc3.jpg)
 
-The die will be left in HCl until all the metal is dissolved.
+The die will be left in HCl until all the metal is dissolved. However, long wires may be a challenge.
 
 ![Image of metal NOT getting etched away (500x mag)](/blarg/assets/20240728/deproc4.jpg)
 
