@@ -57,9 +57,9 @@ Depending on the oxide thickness, the first and subsequent runs may need to be s
 
 The passivation oxide layer was not etched completely. Due to apparent unevenness of this layer or unevenness of the etchant, it seems risky to continue etching beyond the point where metal is reachable on the sharp edges where oxide was the thinnest. After all, this is how the sample of attempt 1 was ruined.
 
-Etching with pure HCl is rather slow; need some way to speed it up. Adding H2O2 resulted in a lot of unpleasant gas coming out of solution; working outside is highly recommended. But it did seem to quicken the process somewhat.
+Etching with pure HCl is rather slow; need some way to speed it up. Adding H2O2 resulted in a lot of unpleasant gas (a.k.a chlorine) coming out of solution; working outside is highly recommended. But it did seem to quicken the process somewhat.
 
-Etching metal in long wire runs is rather slow. This is because etchant has to travel all the way and be present in enough concentration while being constantly consumed. Recall the oxide layer is still present on top of the wire.
+Etching metal in long wire runs is rather slow. This is because etchant has to travel all the way and be present in enough concentration while being constantly consumed. Recall the oxide layer is still present on top of the wire. Expect complete etch to take hours or more.
 
 Overall, this time the majority of metal was removed without damaging any other structures. This is as close to a success in deprocessing as I ever got to date.
 
