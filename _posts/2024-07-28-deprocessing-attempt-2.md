@@ -20,7 +20,7 @@ The ingredients are:
 * Water in a squirt bottle for washing the slide and sample
 * A microscope to inspect the process
 
-![Red ceramic etch packaging](/blarg/assets/20240728/red-ceramic-etch.jpg)
+![Red ceramic etch packaging](/blarg/assets/20240728/red-ceramic-etch.jpeg)
 
 **DANGER**: compounds containing HF are toxic for living organisms (that means YOU). Observe all required precautions when handling them.
 
