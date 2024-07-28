@@ -3,7 +3,7 @@ title: "Deprocessing attempt 3"
 date: 2024-07-28
 ---
 
-Greetings and salutations! Todat I am attempting to deprocess a third sample of Siemens M1327A3, hopefully with more success than previously. I thought I'd take notes while I am at it. Recapping the previous attempts...
+Greetings and salutations! Todat I am attempting to deprocess a third sample of [Siemens M1327A3](https://siliconpr0n.org/archive/doku.php?id=infosecdj:siemens:m1327a3), hopefully with more success than previously. I thought I'd take notes while I am at it. Recapping the previous attempts...
 
 Sample 1 was ruined due to unevenness and over-etching: some of poly was already etched away while parts of passivation oxide were not removed from the top.
 
