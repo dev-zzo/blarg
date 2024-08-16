@@ -45,6 +45,11 @@ This page will list microscope objectives with numerical aperture higher than a 
 
 | Vendor | Model | Mag/NA | Ph/DIC |Tube/Glass | Dry/Oil | Correction | Notes |
 |--------|-------|--------|--------|-----------|---------|------------|-------|
+| Leica | HCX PL APO | 63/1.32-0.6 | CS | inf/0.17/D | Oil | ? | Iris, 506180 |
 | Leica | HCX PL FLUOTAR | 63/1.25 | Ph3 | inf/0.17/E | Oil | ? | 506186 |
 | Leica | PL APO | 63/1.32 | Ph3 | inf/0.17/D | Oil | ? | 506082 |
+| Leica | HCX PL S-APO | 63/1.3 | | inf/0.17/E | Oil | ? | 506292 |
+| Zeiss | Planapo | 63/1.4 | | 160/0.17 | Oil | Req'd | 46 18 40 |
 | Zeiss | Planapo | 63/1.4 | | 160/- | Oil | Req'd | |
+| Zeiss | Plan-APOCHROMAT | 63/1.4 | Ph3 | inf/0.17 | Oil | Req'd | 44 07 61 |
+| Zeiss | Plan-APOCHROMAT | 63/1.4 | DIC | inf/0.17 | Oil | Req'd | 44 07 62 |
