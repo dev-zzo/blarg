@@ -2,7 +2,9 @@
 
 This page will list microscope objectives with numerical aperture higher than a typical achromat; most of them probably immersion-type. The goal is to inform people on which lenses are out there at specific mags and which require corrections outside the objective itself e.g. in eyepiece.
 
-## 20x with NA > ??
+While I spent a lot of effort composing them, these tables are guaranteed to be incomplete.
+
+## 20x with NA > 0.4
 
 | Vendor  | Model            | Mag/NA       | Ph/DIC | Tube/Cover | Immersion | Corr? | MPN      | Notes |
 |---------|------------------|--------------|--------|------------|-----------|-------|----------|-------|
@@ -21,8 +23,10 @@ This page will list microscope objectives with numerical aperture higher than a 
 | Leica   | HCX PL APO       | 40/1.25      | Ph3CS  | inf/0.17/E | Oil       | ?     | 506181   | |
 | Leitz   | Fluoreszenz      | 40/1.3       |        | 160/0.17   | Oil       | ?     |          | |
 | Leitz   | NPL Fluotar      | 40/1.3       | Ph3    | 160/0.17   | Oil       | ?     |          | |
+| Nikon   | Plan Apo         | 40/0.95      |        | 160/0.11-0.23 |        | ?     |          | Chrome |
+| Nikon   | Plan Apo Lambda  | 40/0.95      | DIC N2 | inf/0.11-0.23 |        | ?     |          | |
 | Nikon   | Plan Apo         | 40/1.0       |        | 160/0.17   | Oil       | ?     |          | |
-| Nikon   | Plan Apo         | 40/1.0       | Ph3DM  | inf/0.17   | Oil       | ?     |          | |
+| Nikon   | Plan Apo         | 40/1.0       | Ph3 DM | inf/0.17   | Oil       | ?     |          | |
 | Nikon   | Plan Apo         | 40/1.0       | DIC H  | inf/0.17   | Oil       | ?     | MRD01400 | |
 | Nikon   | Fluor            | 40/1.3-0.8   | Ph4DL  | 160/0.17   | Oil       | ?     |          | |
 | Nikon   | Plan Fluor       | 40/1.3       | DIC H  | inf/0.17   | Oil       | ?     | MRH01400 | |
@@ -62,10 +66,11 @@ This page will list microscope objectives with numerical aperture higher than a 
 | Leica   | HCX PL APO       | 63/1.40-0.6  |        |            | Oil       | ?     | 506188   | |
 | Leica   | PL APO           | 63/1.32      | Ph3    | inf/0.17/D | Oil       | ?     | 506082   | |
 | Leica   | HCX PL S-APO     | 63/1.3       |        | inf/0.17/E | Oil       | ?     | 506292   | |
-| Nikon   | Plan Apo         | 60/1.4       |        | 160/0.17   | Oil       | ?     |          | |
+| Nikon   | Plan Apo         | 60/0.9       |        | 160/0.11-0.23 |        | ?     |          | Chrome |
+| Nikon   | Plan Apo         | 60/1.4       |        | 160/0.17   | Oil       | ?     |          | Chrome |
 | Nikon   | Plan Apo         | 60/1.4       | DIC    | 160/0.17   | Oil       | ?     |          | |
 | Nikon   | Plan Apo         | 60/1.4       | DIC H  | inf/0.17   | Oil       | ?     |          | |
-| Nikon   | Plan Apo         | 60/1.4       | DM/Ph4 | 160/0.17   | Oil       | ?     |          | |
+| Nikon   | Plan Apo         | 60/1.4       | Ph4 DM | 160/0.17   | Oil       | ?     |          | |
 | Nikon   | Plan Apo VC      | 60/1.4       | DIC N2 | inf/0.17   | Oil       | ?     | MRD01602 | |
 | Nikon   | Plan Apo Lambda  | 60/1.4       |        | inf/0.17   | Oil       | ?     | MRD01605 | |
 | Olympus | MPlanApo         | 60/0.9       |        | inf/0      |           | ?     |          | |
@@ -99,4 +104,7 @@ This page will list microscope objectives with numerical aperture higher than a 
 
 | Vendor  | Model            | Mag/NA       | Ph/DIC | Tube/Cover | Immersion | Corr? | MPN      | Notes |
 |---------|------------------|--------------|--------|------------|-----------|-------|----------|-------|
+| Nikon   | Plan Apo         | 100/1.4      |        | 160/0.17   | Oil       | ?     |          | Chrome |
+| Nikon   | Plan Apo         | 100/1.4      | Ph3 DM | inf/0.17   | Oil       | ?     |          | |
+| Nikon   | Plan Apo         | 100/1.4      | DIC H  | inf/0.17   | Oil       | ?     |          | |
 | Olympus | UPlanSApo        | 100/1.4      |        | inf/0.17   | Oil       | no    |          | UIS 2 |
