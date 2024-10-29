@@ -1,5 +1,5 @@
 ---
-title: "Marzhauser EK 14 motorized stage adventures"
+title: "Märzhäuser EK 14 motorized stage adventures"
 date: 2024-10-29
 ---
 
@@ -27,10 +27,10 @@ There are also two small hatches, they provide access to small endstop sensor PC
 | 2   | X motor blue    | Winding B |
 | 3   | X motor black   | Winding A |
 | 4   | X motor green   | Winding A |
-| 5   | X motor red     | Winding B |
-| 6   | X motor blue    | Winding B |
-| 7   | X motor black   | Winding A |
-| 8   | X motor green   | Winding A |
+| 5   | Y motor red     | Winding B |
+| 6   | Y motor blue    | Winding B |
+| 7   | Y motor black   | Winding A |
+| 8   | Y motor green   | Winding A |
 | 9   | XO green        | Output    |
 | 10  | XO+XE white     | Ground    |
 | 11  | YE blu/white    | Output    |
