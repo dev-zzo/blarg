@@ -17,7 +17,7 @@ I thought I'd note down the connector pinout for motors etc for those not willin
 
 ![Connector PCB, a mess of wires](/blarg/assets/20241029/ek14-connector.jpg)
 
-The motor pinout could be found in their datasheet or by beeping it out (black+green, red+blue), but figuring out the other wires will take some work.
+The motor pinout could be found in their datasheet or by buzzing it out (black+green, red+blue are the winding pairs), but figuring out the other wires will take some work.
 
 There are also two small hatches, they provide access to small endstop sensor PCBs for the X axis. On the PCB there are the sensor itself marked 506A which is [HAL506 by Micronas](https://www.mouser.com/datasheet/2/735/HAL501___507,_508,_509,_HAL516___519,_523_Hall-Eff-1109092.pdf), a capacitor, an LED, and a resistor. The capacitor is placed between brown and white wires, so these are likely power supply. The LED and resistor are in series and connected to the remaining wire so this is likely the output. Checking the datasheet, this seems to be correct: pin 1 is VDD, 2 is GND, 3 is OUT.
 
