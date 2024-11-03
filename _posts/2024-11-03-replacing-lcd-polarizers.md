@@ -15,7 +15,7 @@ Get the display out of your device.
 
 ![Old display with degraded film](/blarg/assets/20241103/old-display.jpg)
 
-The display looks like it had its share of UV light; note there is some proper gray colour on the very border. This is the polarizer film that has degraded. If you look close at your display, you will see the firm -- both on the front and the back.
+The display looks like it had its share of UV light. This is due to the polarizer film that has degraded; note there still is some proper gray colour on the very border, maybe it was covered by enclosure. If you look close at your display, you will see the film edges -- both on the front and the back.
 
 Notably, some displays have them films separate -- then you don't need to do all the film and adhesive removal, obviously.
 
