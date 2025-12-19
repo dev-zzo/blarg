@@ -5,7 +5,7 @@ date: 2025-12-19
 
 Hello and hello and hello to everyone out there, this is likely the last blog post in the infamous 2025. Today I am going to talk a bit about a recent decapping experiment, where another fun liquid was used.
 
-So there is this fun substance named [dimethyl sulphoxide](https://en.wikipedia.org/wiki/Dimethyl_sulfoxide), also known as DMSO, which is supposedly useful in decapping plastic (well, epoxy-based) IC packages. Until recently, though, I have not heard of anyone actually having success using it. However, a couple days ago I happened upon a couple forum posts claiming success, so in the spirit of science I set out to replicate their findings.
+So there is this fun substance named [dimethyl sulphoxide](https://en.wikipedia.org/wiki/Dimethyl_sulfoxide), also known as DMSO, which is supposedly useful in decapping plastic (well, epoxy-based) IC packages. Until recently, though, I have not heard of anyone actually having success using it. A couple days ago I happened upon a couple forum posts claiming success, so in the spirit of science I set out to replicate their findings.
 
 Here is my test subject.
 
@@ -27,7 +27,7 @@ After some time, around 10-15 min, the package started to visibly disintegrate..
 
 ![Test subject visibly in pieces](/blarg/assets/20251219/step-4.jpg)
 
-The contents then was dumped into a beaker and diluted with some deionised water. The die, which happened to be quite small, can be found among the debris.
+The contents was then dumped into a beaker and diluted with some deionised water. The die, which happened to be quite small, can be found among the debris.
 
 ![Glorious remains](/blarg/assets/20251219/step-5.jpg)
 
@@ -39,5 +39,6 @@ Undeniably, there is truth to the anecdotal evidence of DMSO being effective as 
 
 Please get in touch and share your own experience using DMSO. I will be happy to amend the post with new information.
 
-All the best,
+Wish you all merry festivities and hope the next year will be better for all of us.
+
 /DJ
