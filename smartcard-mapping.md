@@ -4,7 +4,7 @@ This page maps die markings, CPLC codes, and part numbers.
 
 | Die marking | CPLC code | Part number |
 |-------------|-----------|-------------|
-|             |           | Philips/NXP |
+|             |           | **Philips/NXP** |
 | C009J       |           | P8WE6017V1J |
 | P009J       |           | P8WE6017V1J |
 | C012G       |           | P8WE5033V0G |
@@ -24,7 +24,7 @@ This page maps die markings, CPLC codes, and part numbers.
 | T046B       |           | P5Cx081V1A |
 | s046B       |           | P5Cx081V1(s) |
 | s053A       | 4790/5197 | ??? |
-|             |           | ST Microelectronics |
+|             |           | **ST Microelectronics** |
 | K2L0A | | SA23YL18 |
 | K2M0A | | ST23YR48/80 |
 | K2N0ADA | | SA23YR18A and SB23YR18A |
