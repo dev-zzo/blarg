@@ -25,7 +25,9 @@ This page maps die markings, CPLC codes, and part numbers.
 | s046B       |           | P5Cx081V1(s) |
 | s053A       | 4790/5197 | ??? |
 |             |           | ST Microelectronics |
+| K2L0A | | SA23YL18 |
 | K2M0A | | ST23YR48/80 |
+| K2N0ADA | | SA23YR18A and SB23YR18A |
 | K330A | | ST31-K330A |
 | K390A | | SC23Z018, SC23ZD12, SC23ZD08, SC23ZD04, SB23ZD18, SB23ZD12, SB23ZD08 and SB23ZD04 |
 | K410A | | ST31P450 A07 |
@@ -43,9 +45,8 @@ This page maps die markings, CPLC codes, and part numbers.
 | K8N0A | | ST31H320 C01 |
 | K8K0A | | ST33H768 C01 |
 | K8L0B | | ST31G480 E01 |
-| K2L0A | | SA23YL18 |
-| K2N0ADA | | SA23YR18A and SB23YR18A |
 
 # Notes
 
 * There are two distinct Philips dies that map to the same CPLC code of 4070/7073. No markings on top metal.
+* The K330A was previously ST16F48A.
