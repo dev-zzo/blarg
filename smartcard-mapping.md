@@ -25,6 +25,7 @@ This page maps die markings, CPLC codes, and part numbers.
 | s046B       |           | P5Cx081V1(s) |
 | s053A       | 4790/5197 | ??? |
 |             |           | **ST Microelectronics** |
+| K2D0A | | ??? |
 | K2L0A | | SA23YL18 |
 | K2M0A | | ST23YR48/80 |
 | K2N0ADA | | SA23YR18A and SB23YR18A |
